@@ -3,12 +3,12 @@
 I'm Braian Coronel, an Android and Backend Developer with Kotlin. Also, I use KMM. 
 
 
-- 🔭 I’m currently working on Mobius and Prosegur Cash.
-- 🌱 I’m currently learning Jetpack Compose.
+- 🔭 I’m currently working on Perficient, MobiusPlatform and CryptoPlatform
+- 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on cryptocurrencies.
 - 🤔 I’m looking for help with Kotlin in terms of people quantity .
-- 💬 Ask me about Kotlin.
-- 📫 How to reach me: braian@itdevexpert.com
+- 💬 Ask me about cryptocurrencies, trading, kotlin or blockchain.
+- 📫 How to reach me: braiancoronelosmar@gmail.com
 - 😄 Pronouns: Braian
 - ⚡ Fun fact: Slow but safe
 
