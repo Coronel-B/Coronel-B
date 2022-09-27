@@ -3,7 +3,7 @@
 I'm Braian Coronel, an Android and Backend Developer with Kotlin. Also, I use KMM. 
 
 
-- 🔭 I’m currently working on Perficient, MobiusPlatform and CryptoPlatform
+- 🔭 I’m currently working on Crypto-Meta
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on cryptocurrencies.
 - 🤔 I’m looking for help with Kotlin in terms of people quantity .
