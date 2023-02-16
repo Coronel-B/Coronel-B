@@ -8,7 +8,7 @@ I'm Braian Coronel, an Android and Backend Developer with Kotlin. Also, I use KM
 - 👯 I’m looking to collaborate on cryptocurrencies.
 - 🤔 I’m looking for help with Kotlin in terms of people quantity .
 - 💬 Ask me about cryptocurrencies, trading, kotlin or blockchain.
-- 📫 How to reach me: braiancoronelosmar@gmail.com
+- 📫 How to reach me: braian.coronel@swfactory.org
 - 😄 Pronouns: Braian
 - ⚡ Fun fact: Slow but safe
 
